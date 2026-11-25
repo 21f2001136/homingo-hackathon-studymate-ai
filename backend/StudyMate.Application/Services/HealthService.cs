@@ -6,6 +6,6 @@ public class HealthService : IHealthService
 {
     public string GetStatus()
     {
-        return "StudyMate API is running!";
+        return "StudyMate API is runninng!";
     }
 }
